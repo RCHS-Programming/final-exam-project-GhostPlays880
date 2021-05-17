@@ -14,6 +14,6 @@ public class Basketball extends Actor
      */
     public void act() 
     {
-        // Add your action code here.
+        //
     }    
 }
