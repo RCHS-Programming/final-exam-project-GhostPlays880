@@ -34,6 +34,7 @@ public class PacWorld extends World
         addObject(new WallTall (), 693, 320);
         addObject(new WallTall (), 693, 460);
         addObject(new WallTall (), 693, 610);
+        addObject(new Basketball (), 411, 451);
     }
         }
 
