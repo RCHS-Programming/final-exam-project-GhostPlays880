@@ -14,6 +14,7 @@ dependency2.type=UsesDependency
 dependency3.from=PacWorld
 dependency3.to=Basketball
 dependency3.type=UsesDependency
+ Actors
 dependency4.from=PacWorld
 dependency4.to=Helmet
 dependency4.type=UsesDependency
@@ -26,6 +27,20 @@ editor.fx.0.x=0
 editor.fx.0.y=0
 height=838
 package.numDependencies=5
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
+height=838
+ Updated upstream
+
+mainWindow.height=881
+mainWindow.width=959
+mainWindow.x=40
+mainWindow.y=40
+ Stashed changes
+package.numDependencies=3
+ main
 package.numTargets=6
 project.charset=UTF-8
 publish.hasSource=false
