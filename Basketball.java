@@ -40,7 +40,7 @@ public class Basketball extends Actor
     }
     public void collision()
     {
-        if(isTouching(WallTall.class))
+        if(isTouching(WallTall.class)|| (isTouching(WallSmall.class)))
         {
            setLocation(safeX, safeY);
         }       
@@ -49,6 +49,7 @@ public class Basketball extends Actor
             safeX=getX();
             safeY= getY();
         }
+        
     }
 }
  
