@@ -49,7 +49,11 @@ public class Basketball extends Actor
             safeX=getX();
             safeY= getY();
         }
-        
+        if(isTouching(BB.class))
+        {
+            removeTouching(BB.class);
+        }
     }
+    
 }
  

@@ -65,10 +65,62 @@ public class PacWorld extends World
         addObject(new WallTall (), 453, 18);
         addObject(new WallTall (), 240, 18);
         
-        addObject(new Basketball (), 411, 451);
+        addObject(new Basketball (),350, 600);
         addObject(new Helmet (), 408, 340);
-        addObject(new Helmet (), 357, 360);
-        addObject(new Helmet (), 297, 340);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
+        
     }
         }
 

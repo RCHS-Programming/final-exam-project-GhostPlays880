@@ -18,22 +18,25 @@ public class Helmet extends Actor
     {
         lookForBasketball();
         randomturn();
-        move(5);
+        move(2);
     }    
     public void lookForBasketball()
     {
         if(isTouching(Basketball.class))
         
             {
-                removeTouching(Basketball.class);
+                Greenfoot.setWorld(new LoseWorld());
             }
         }
     public void randomturn()
     {
-        if( Greenfoot.getRandomNumber (700) <400)
-        {
-            turn( Greenfoot.getRandomNumber(691)-75);
-        }
+        //if( Greenfoot.getRandomNumber (700) <400)
+        //{
+        //    turn( Greenfoot.getRandomNumber(691)-75);
+        //}
+        int x= getWorld().getObjects(Basketball.class).get(0).getX();
+        int y= getWorld().getObjects(Basketball.class).get(0).getY();
+        turnTowards(x,y);
     }
       public void collision()
     {
