@@ -122,5 +122,12 @@ public class PacWorld extends World
         addObject(new BB (), Greenfoot.getRandomNumber(600)+50, Greenfoot.getRandomNumber(600)+50);
         
     }
+    public void act()
+    {
+        if (getObjects(BB.class).size()==0)
+        {
+            Greenfoot.setWorld(new WinWorld());
         }
+    }
+}
 

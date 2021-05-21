@@ -18,7 +18,7 @@ public class Helmet extends Actor
     {
         lookForBasketball();
         randomturn();
-        move(2);
+        move(1);
     }    
     public void lookForBasketball()
     {

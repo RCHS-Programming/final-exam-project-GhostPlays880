@@ -23,19 +23,19 @@ public class Basketball extends Actor
     {
         if(Greenfoot.isKeyDown ("up"))
         {
-            setLocation( getX(), getY() -3);
+            setLocation( getX(), getY() -4);
         }
         if(Greenfoot.isKeyDown ("down"))
         {
-            setLocation( getX(), getY() +3);
+            setLocation( getX(), getY() +4);
         }
         if(Greenfoot.isKeyDown ("left"))
         {
-            setLocation( getX()-3, getY() );
+            setLocation( getX()-4, getY() );
         }
         if(Greenfoot.isKeyDown ("right"))
         {
-            setLocation( getX()+3, getY() );
+            setLocation( getX()+4, getY() );
         }
     }
     public void collision()
