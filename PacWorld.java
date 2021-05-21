@@ -17,7 +17,7 @@ public class PacWorld extends World
     {    
         // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
         super(700, 700, 1);
-        
+        Greenfoot.playSound ("Music.mp3");
         addObject(new WallSmall (), 408, 407 );
         addObject(new WallSmall (), 297, 408 );
         addObject(new WallSmall (), 215, 257 );
