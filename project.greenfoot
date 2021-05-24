@@ -2,6 +2,7 @@
 class.BB.image=Baseball-removebg-preview.png
 class.Basketball.image=BasketBall_Sprite-removebg-preview.png
 class.Helmet.image=Healthy_Helmet-removebg-preview.png
+<<<<<<< Updated upstream
 class.LoseWorld.image=technology-or-science-concepts-blue-hexagon-background.jpg
 class.PacWorld.image=technology-or-science-concepts-blue-hexagon-background.jpg
 class.WallSmall.image=Wall.png
@@ -9,6 +10,13 @@ class.WallTall.image=Wall2.png
 class.WinWorld.image=Win\ Screen.gif
 dependency1.from=WinWorld
 dependency1.to=PacWorld
+=======
+class.PacWorld.image=technology-or-science-concepts-blue-hexagon-background.jpg
+class.WallSmall.image=Wall.png
+class.WallTall.image=Wall2.png
+dependency1.from=PacWorld
+dependency1.to=WallSmall
+>>>>>>> Stashed changes
 dependency1.type=UsesDependency
 dependency10.from=Helmet
 dependency10.to=Basketball
@@ -40,6 +48,7 @@ dependency4.type=UsesDependency
 dependency5.from=PacWorld
 dependency5.to=Helmet
 dependency5.type=UsesDependency
+<<<<<<< Updated upstream
 dependency6.from=PacWorld
 dependency6.to=BB
 dependency6.type=UsesDependency
@@ -52,13 +61,21 @@ dependency8.type=UsesDependency
 dependency9.from=Helmet
 dependency9.to=LoseWorld
 dependency9.type=UsesDependency
+=======
+>>>>>>> Stashed changes
 editor.fx.0.height=0
 editor.fx.0.width=0
 editor.fx.0.x=0
 editor.fx.0.y=0
+<<<<<<< Updated upstream
 height=838
 package.numDependencies=15
 package.numTargets=8
+=======
+height=825
+package.numDependencies=5
+package.numTargets=6
+>>>>>>> Stashed changes
 project.charset=UTF-8
 publish.hasSource=false
 publish.locked=true
@@ -133,4 +150,4 @@ version=3.0.0
 width=1550
 world.lastInstantiated=PacWorld
 xPosition=0
-yPosition=0
+yPosition=12
